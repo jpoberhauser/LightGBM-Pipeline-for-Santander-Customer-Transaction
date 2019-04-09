@@ -23,6 +23,8 @@ concept: some of the features (all are anonimized) _seem_ to be categorical. By 
 
 * Stratified Cross validation
 
+* Target encoding with startified Kfold
+
 * Model stacking and blending
 
 * Xgboost

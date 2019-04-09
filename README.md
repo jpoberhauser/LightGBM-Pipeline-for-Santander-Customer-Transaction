@@ -15,6 +15,7 @@ Code for entry in the Santander customer transaction prediction Kaggle competiti
 * Data augmentation
 
 concept: add small permutations to each row of data to give the model more data to train on
+props to: https://www.kaggle.com/jiweiliu/lgb-2-leaves-augment
 
 * Automatic Feature Engineering
 
